@@ -13,5 +13,5 @@ The purpose of this notebook is to conduct a basic twitter mining exercise and t
 
 # Results:
 
-* With regards tp classification: the implemented Neural Network (accuracy of 0.58) outperformed the Logistic Regression, Support Vector Machine (linear Kernel) and Random Forest. 
+* With regards to classification: the implemented Neural Network (accuracy of 0.58) outperformed the Logistic Regression, Support Vector Machine (linear Kernel) and Random Forest. 
 * To examine similarity of politicians, cosine similarity was used and reveals that the most similar politicians are: Adam Smith	Bob Corker (0.996126)
