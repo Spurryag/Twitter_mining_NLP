@@ -2,7 +2,7 @@
 
 # The Problem : 
 
-Conduct a basic webscraping as well as twitter mining exercise and to demonstrate how to apply exploration techniques combined with machine learning algorithms for NLP . 
+Conduct a basic webscraping as well as twitter mining exercise and to demonstrate how to apply exploration techniques combined with machine learning algorithms for NLP (Tu Kaiserslauten PhD interview project/ German Deep Learning Research Centre Research Position). 
 
 More specifically, the aims are to : 
 
